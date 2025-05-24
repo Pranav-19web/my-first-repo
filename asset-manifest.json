@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/my-first-repo/static/css/main.f855e6bc.css",
-    "main.js": "/my-first-repo/static/js/main.a24ac765.js",
+    "main.css": "/my-first-repo/static/css/main.bedfb4ca.css",
+    "main.js": "/my-first-repo/static/js/main.d5d395d0.js",
     "static/js/453.0ccb7fb4.chunk.js": "/my-first-repo/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/logo.svg": "/my-first-repo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-first-repo/index.html",
-    "main.f855e6bc.css.map": "/my-first-repo/static/css/main.f855e6bc.css.map",
-    "main.a24ac765.js.map": "/my-first-repo/static/js/main.a24ac765.js.map",
+    "main.bedfb4ca.css.map": "/my-first-repo/static/css/main.bedfb4ca.css.map",
+    "main.d5d395d0.js.map": "/my-first-repo/static/js/main.d5d395d0.js.map",
     "453.0ccb7fb4.chunk.js.map": "/my-first-repo/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a24ac765.js"
+    "static/css/main.bedfb4ca.css",
+    "static/js/main.d5d395d0.js"
   ]
 }
